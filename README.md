@@ -1,0 +1,2 @@
+# javaprojects
+java17curse
